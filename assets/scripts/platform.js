@@ -1,5 +1,5 @@
 game.platform = {
-    velocity: 15,
+    velocity: 10,
     dx: 0,
     x: game.width / 2 - 125,
     y: game.height - 45,
