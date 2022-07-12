@@ -4,5 +4,5 @@
 Simple arcanoid clone game made with the goal of practising in canvas.
 Check it out here: https://ponyr1der.github.io/arcanoid/ 
 
-Press 'SPACE' - to throw the ball
+Press 'SPACE' - to throw the ball.
 Use 'ARROW LEFT or RIGHT' - to move the platform
